@@ -33,3 +33,12 @@ Temporary Items
 
 # debug file
 _site
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.iml
