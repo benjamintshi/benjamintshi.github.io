@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      Mac从零搭建Jenkins-Pipeline-Sonar
+subtitle:   Mac从零搭建Jenkins-Pipeline-Sonar
+date:       2018-12-10
+author:     BY
+header-img: img/post-bg-debug.png
+catalog: true
+tags:
+    - Jenkins
+    - Pipeline
+    - Sonar
+---
+
+
 ## 一、安装Java SDK （若安装则略过）
 > Jenkins 依赖 Java环境
 
