@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Mac从零搭建Jenkins-Pipeline-Sonar
-subtitle:   Mac从零搭建Jenkins-Pipeline-Sonar
+subtitle:   持续集成
 date:       2018-12-10
-author:     BY
+author:     BY Stone
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
