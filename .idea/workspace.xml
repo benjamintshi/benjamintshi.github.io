@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcb95e31-791b-470d-b503-196f2ddd157d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/Mac从零搭建Jenkins+Pipeline+Sonar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/Mac从零搭建Jenkins+Pipeline+Sonar.md" afterPath="$PROJECT_DIR$/_posts/2018-12-10-Mac从零搭建Jenkins-Pipeline-Sonar.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -188,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544444378866</updated>
-      <workItem from="1544444380097" duration="580000" />
+      <workItem from="1544444380097" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="580000" />
+    <option name="totallyTimeSpent" value="890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1466" y="102" width="1440" height="832" extended-state="0" />
