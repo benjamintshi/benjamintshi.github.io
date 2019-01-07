@@ -13,4 +13,5 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.iml
-.idea/*
+*.idea/*
+*.idea
